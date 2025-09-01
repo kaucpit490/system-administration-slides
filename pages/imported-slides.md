@@ -302,7 +302,7 @@ drwxr-xr-x  3 khalid  staff  102 Aug 28 22:36 themes
 ---
 
 ### File Access Attributes (Cont.)
-![](./images/file-permission-bits.png)
+![](/images/file-permission-bits.png)
 
 ---
 
@@ -313,7 +313,7 @@ $ ls -l my-script.sh
 ```
 - There are read (_r_), write (_w_), and execute (_x_) permissions. 
 - The symbol _-_ indicates the permission is turned off.
-![](./images/ls-file-ownership-permissions.png)
+![](/images/ls-file-ownership-permissions.png)
 
 ---
 
