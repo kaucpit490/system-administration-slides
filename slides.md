@@ -2,7 +2,7 @@
 # try also 'default' to start simple
 theme: default
 presenter: true
-title: 'Cloud Computing | Compute and Storage'
+title: 'System Administration'
 titleTemplate: '%s - CPIT-490'
 # apply any windi css classes to the current slide
 class: text-center
@@ -20,6 +20,8 @@ css: unocss
 # Make content selectable/copyable
 selectable: true
 favicon: '/images/favicon.ico'
+fonts:
+  mono: 'Consolas, Monaco, Lucida Console, monospace'
 # Make slides downloadable as PDF
 download: true
 exportFilename: cloud-computing-slides
